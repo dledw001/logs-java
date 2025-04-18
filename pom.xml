@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.logs</groupId>
-  <artifactId>logs</artifactId>
+  <artifactId>logs-java</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>logs</name>
+  <name>logs-java</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
